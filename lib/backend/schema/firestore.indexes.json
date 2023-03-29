@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "horarios",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "profissional",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dia",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "hora",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

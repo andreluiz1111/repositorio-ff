@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "755096424043",
+    "project_id": "agendamento-5af84",
+    "storage_bucket": "agendamento-5af84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755096424043:android:a0a8136d9975d7bb5bab2e",
+        "android_client_info": {
+          "package_name": "com.agendamento.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755096424043-parscl0ogjc1ugr1vujj71i7ntpn8485.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agendamento.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "755096424043-p5ahmjochfb6rllbc9slp6a2r3toppbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdi7mI3_gHMmzIDyzQ37JjNO5BoRiaSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755096424043-p5ahmjochfb6rllbc9slp6a2r3toppbn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755096424043-fgjmbrbm32o3qms68v9fpfb2c39p553f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agendamento.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
